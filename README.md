@@ -16,4 +16,4 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 ## Deployed on Vercel
 
-checkout [live Url:-](https://hulumovieapp.vercel.app/)
+checkout [live Url:-](https://hulumovieapp.vercel.app/) [https://hulumovieapp.vercel.app/]
